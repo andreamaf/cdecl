@@ -1,0 +1,1 @@
+char *(*c[10])(int **p, char* q, int a[10], long double b[], float* r);
